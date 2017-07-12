@@ -47,35 +47,35 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> a value that can change, depending on conditions or on information passed to the program </td>
+          <td> x in math </td>
+          <td> yummy = 88 </td>
+          <td> lol = 8 </td>
         </tr>
 
         <!-- Fill in the row for Loops -->
         <tr>
           <td><b>Loops</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> a sequence of instruction s that is continually repeated until a certain condition is reached.  </td>
+          <td> for loops, while loops, etc </td>
+          <td> for hops in range(6) </td>
+          <td> forever loops </td>
         </tr>
 
         <!-- Fill in the row for Conditionals -->
         <tr>
           <td><b>Conditionals</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> perform different computations or actions depending on whether a programmer-specified boolean condition evaluates to true or false. </td>
+          <td> if i eat ice cream, then i will get a tummyache. </td>
+          <td> if_ elif_ else_ </td>
+          <td> if _ then _ </td>
         </tr>
 
         <!-- Fill in the row for Functions -->
         <tr>
           <td><b>Functions</b></td>
-          <td>  </td>
-          <td>  </td>
+          <td> returns a value, and a procedure, which performs some operation but does not return a value. </td>
+          <td> singing- involved opening your mouth and starting to sing. </td>
           <td>  </td>
           <td>  </td>
         </tr>
